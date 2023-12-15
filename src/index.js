@@ -40,4 +40,4 @@ switch(true){
     break
 }
 
-console.log("O Herói de nome " + nomeHeroi + " está no nível " + classificacao)
+console.log("O Herói de nome %s está no nível %s", nomeHeroi, classificacao)
